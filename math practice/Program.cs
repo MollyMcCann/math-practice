@@ -41,7 +41,7 @@ namespace math_practice
             double total2;
 
             total2 = Num1 + Num2 + Num3;
-            Console.WriteLine(" sum of {0} and {1} and {2} is {3}", Num1,Num2,Num3,total2);
+            Console.WriteLine(" sum of {0} and {1} and {2} is {3}", Num1,Num2,Num3,total2); 
             Console.ReadKey();
 
             int a = 13;
